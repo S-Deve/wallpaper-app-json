@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "name": "Nature",
+      "photos": [
+        "https://i.imgur.com/svKpRks.jpeg",
+        "https://i.imgur.com/IUY7koX.jpeg",
+        "https://i.imgur.com/XUtzUca.jpeg"
+      ]
+    },
+    {
+      "name": "Animals",
+      "photos": [
+        "https://i.imgur.com/zHnsRTq.jpeg",
+        "https://i.imgur.com/kVZ5Ibj.jpeg"
+      ]
+    },
+    {
+      "name": "Abstract",
+      "photos": [
+        "https://i.imgur.com/xazDOeu.jpeg",
+        "https://i.imgur.com/NKs39Xn.jpeg"
+      ]
+    }
+  ]
+}
